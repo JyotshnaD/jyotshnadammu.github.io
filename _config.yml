@@ -1,1 +1,4 @@
-
+title: Show Label1
+logo: /assests/img/headshot_circle.png
+show_download: true
+theme: jekyll-theme-minimal
